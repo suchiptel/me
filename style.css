@@ -681,17 +681,17 @@ p {
     border-top-color: #000;
 }
 
-.social-icon--facebook {
+.social-icon--snapchat {
     background: #3b5a9b;
     color: #fff;
 }
 
-.social-icon--facebook .tooltip {
+.social-icon--snapchat .tooltip {
     background: #3b5a9b;
     color: currentColor;
 }
 
-.social-icon--facebook .tooltip:after {
+.social-icon--snapchat .tooltip:after {
     border-top-color: #3b5a9b;
 }
 
@@ -896,7 +896,7 @@ a:hover {
     /* height: 100vh; */
     float: left;
     margin-left: 0vw;
-    background: url('https://i.ibb.co/YR6vB3G/Untitled-drawing-2020-06-08-T224114-087.png');
+    background: url('https://i.ibb.co/wwLKbMb/profile-pic.png');
     background-size: cover;
     background-position: center;
 }
